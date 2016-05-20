@@ -1,3 +1,11 @@
 {
     "name": "xshaitt/test",
+    "description": "test",
+    "authors": [
+        {
+            "name": "xsh",
+            "email": "773999579@qq.com"
+        }
+    ],
+    "require": {}
 }
